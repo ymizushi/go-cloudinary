@@ -12,8 +12,6 @@ import (
 	"net/url"
 	"os"
 	"strings"
-
-	"github.com/gotsunami/go-cloudinary"
 	"github.com/outofpluto/goconfig/config"
 )
 
